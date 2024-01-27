@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.9
 
 dev_dependencies:
   flutter_test:
@@ -25,9 +26,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/icons/
-    - assets/vector/
-    
+     - assets/icons/
+     - assets/vector/
+
   # Fonts
   fonts:
     - family: Inter
@@ -50,23 +51,23 @@ flutter:
           weight: 600
         - asset: assets/fonts/inter/Inter-Thin.ttf
           weight: 100
-    - family: PiaItExtended
+    - family: PilatExtended
       fonts:
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Black.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Black.ttf
           weight: 900
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Bold.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Bold.ttf
           weight: 700
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Book.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Book.ttf
           weight: 400
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-DemiBold.ttf
+        - asset: assets/fonts/pilat/PilatExtended-DemiBold.ttf
           weight: 600
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Heavy.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Heavy.ttf
           weight: 800
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Light.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Light.ttf
           weight: 300
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Regular.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Regular.ttf
           weight: 400
-        - asset: assets/fonts/PiaItExtended/PiaItExtended-Thin.ttf
+        - asset: assets/fonts/pilat/PilatExtended-Thin.ttf
           weight: 100
 
 
